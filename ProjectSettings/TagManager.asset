@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Platform
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Foreground
   - 
   - 
   - 
@@ -41,6 +42,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 978080701
+    locked: 0
+  - name: Foreground
+    uniqueID: 3181799841
     locked: 0
   m_RenderingLayers:
   - Default
